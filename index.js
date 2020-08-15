@@ -1,9 +1,4 @@
-/*Merhabalar. Ben yusuf yaklaşık 3 yıldır uğraştığım bot kodlama ile ilgili merağım sona erdi ve bu botu size hediye ediyorum.
-Botta hiç bir sıkıntı yok çoğu kodlar benim tarafımdan fakat bazı kodlar ise alıntıdır. (10 Kod civarı)
-Token girip site işlemlerinizi hallettikten sonra bot & sitesi açılacaktır.
-Unutmayın vortex sıradan bir bot değildir VIP bot olan vortexi sizlere armağan ediyorum
-Bu iyliğimi unutmayın hata olursa Cod are daha detaylı zor hata olursa Yusuf K Dev.#3004 ulaşınız  
-Botu kuramadıysanız kimseye ücret vermeyin kurulumunu cod are yapar.*/
+
 if (process.version.slice(1).split(".")[0] < 8)
   throw new Error(
     "Node 8.0.0 or higher is required. Update Node on your system."
